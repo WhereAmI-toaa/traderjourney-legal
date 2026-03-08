@@ -1,0 +1,10 @@
+cat > package.json << 'EOF'
+{
+  "name": "traderjourney-legal",
+  "version": "1.0.0",
+  "description": "TraderJourney Legal Documents",
+  "scripts": {
+    "dev": "python3 -m http.server 3000"
+  }
+}
+EOF
