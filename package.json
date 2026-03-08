@@ -1,4 +1,3 @@
-cat > package.json << 'EOF'
 {
   "name": "traderjourney-legal",
   "version": "1.0.0",
